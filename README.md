@@ -23,7 +23,7 @@ klipper_timeout: 0
 #Kopieren
 #Bearbeiten
 # Bridging BTT TFT35 and Klipper – mit CPU-Schonung
-# Optimiert von Nick + ChatGPT
+# Optimiert
 
 import serial
 import threading
